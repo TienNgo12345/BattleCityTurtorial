@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1743342470 source:c:\users\admin\documents\project\battlecityturtorial\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1743243882 c:\users\admin\documents\project\battlecityturtorial\include\utilities.h
+	<SDL.h>
+
+1743341634 source:c:\users\admin\documents\project\battlecityturtorial\src\bullet.cpp
+	"Bullet.h"
+
+1743341634 c:\users\admin\documents\project\battlecityturtorial\include\bullet.h
+	<SDL.h>
+	"constants.h"
+
+1743242847 source:c:\users\admin\documents\project\battlecityturtorial\src\utilities.cpp
+	"Utilities.h"
+
+1743341634 source:c:\users\admin\documents\project\battlecityturtorial\src\playertank.cpp
+	"PlayerTank.h"
+	<algorithm>
+
+1743341634 c:\users\admin\documents\project\battlecityturtorial\include\playertank.h
+	<SDL.h>
+	<vector>
+	"Bullet.h"
+	"constants.h"
+
+1743341634 c:\users\admin\documents\project\battlecityturtorial\include\wall.h
+	<SDL.h>
+	"constants.h"
+
+1743341634 source:c:\users\admin\documents\project\battlecityturtorial\src\wall.cpp
+	"Wall.h"
+
+1743341634 source:c:\users\admin\documents\project\battlecityturtorial\src\enemytank.cpp
+	"EnemyTank.h"
+	<cstdlib>
+	<algorithm>
+
+1743341634 c:\users\admin\documents\project\battlecityturtorial\include\enemytank.h
+	<SDL.h>
+	<vector>
+	"Bullet.h"
+	"constants.h"
+
+1743341634 source:c:\users\admin\documents\project\battlecityturtorial\src\game.cpp
+	"Game.h"
+	"constants.h"
+	"PlayerTank.h"
+	"EnemyTank.h"
+	"Wall.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1743341634 c:\users\admin\documents\project\battlecityturtorial\include\game.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<string>
+	<vector>
+	"PlayerTank.h"
+	"EnemyTank.h"
+	"Wall.h"
+
+1743341932 c:\users\admin\documents\project\battlecityturtorial\include\constants.h
+
